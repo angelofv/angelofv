@@ -1,6 +1,6 @@
 # Hi, I’m Angelo👋
 
-**Data Scientist** with 3+ years of experience designing and deploying machine-learning solutions, building scalable ETL workflows, and delivering actionable insights.
+```Data Scientist``` focused on business impact and continuous learning, leveraging **3+ years of experience** in machine‑learning, ETL pipeline design, and data‑driven decision support.
 
 * 🔭 **Former Data Scientist @ Free (Iliad)**: leading anomaly detection & clustering initiatives for large-scale network data
 * 🌱 Passionate about time-series forecasting, anomaly detection, and MLOps (Docker, Prefect, MLflow, AWS).
@@ -30,9 +30,10 @@
  &nbsp;
 </h3>
 
-* Developed a daily anomaly-detection pipeline for 10K+ radio antennas, eliminating manual checks.
-* Built clustering models to segment radio sites by energy efficiency and traffic patterns.
-* Automated ETL workflows for daily refreshed reference tables, uncovering billing inconsistencies.
+* Developed a daily anomaly-detection pipeline based on ML time-series forecasting for 10K+ radio antennas, delivering monitoring outputs to NOC teams and **eliminating manual weekly/monthly checks**.
+* Built a time-series clustering pipeline using 20+ mixed features to segment radio sites by energy efficiency, traffic load, and configuration; partnered with network teams to **uncover key optimization levers**.
+* Designed robust ETL workflows to generate daily refreshed reference tables on energy usage, antenna setups, and billing, leveraged group-wide, enabling the company to **avoid substantial supplier charges** by exposing inconsistenciesacross external data feeds.
+
 
 ### SFR (Altice France) – Data Analyst (Sep 2021 – Aug 2024)
 <h3 align="center">
@@ -40,9 +41,12 @@
  &nbsp;
 </h3>
 
-* Performed exploratory analysis on customer churn, consumption, and sales to support marketing campaigns.
-* Streamlined ETL pipelines on large datasets, reducing SQL execution time by 30%.
-* Created interactive dashboards for 40+ stakeholders, automating KPI reporting.
+* Conducted ad hoc and exploratory data analysis to monitor customer churn, mobile and M2M consumption, sales, and mobile portfolio, **supporting data-driven marketing campaigns**.
+* Developed and optimized ETL pipelines on large datasets, **reducing SQL query execution times by 30%** through indexing, partitioning, pre-filtering, CTEs, and redundancy reduction.
+* Designed, developed, and maintained interactive dashboards **for 40+ stakeholders** to track KPIs and provide actionable insights.
+* Automated ETL workflows, implementing 15+ DAGs for daily, weekly, or monthly updates, **saving up to 3 workdays per month** through scheduling, orchestration, and monitoring.
+
+
 
 ---
 
