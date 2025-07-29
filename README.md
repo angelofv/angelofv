@@ -1,6 +1,6 @@
 # Hi, I’m Angelo👋
 
-```Data Scientist``` focused on business impact and continuous learning, leveraging **3+ years of experience** in machine‑learning, ETL pipeline design, and data‑driven decision support.
+```Data Scientist``` focused on business impact, leveraging **3+ years of experience** in machine‑learning, ETL pipeline design, and data‑driven decision support.
 
 * 🔭 **Former Data Scientist @ Free (Iliad)**: leading anomaly detection & clustering initiatives for large-scale network data
 * 🌱 Passionate about time-series forecasting, anomaly detection, and MLOps (Docker, Prefect, MLflow, AWS).
