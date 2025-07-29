@@ -50,7 +50,7 @@
 * **ESIEA**, Engineer’s Degree in Data Science (2021–2024)
 <h3 align="center">
  &nbsp; 
- <a href="https://www.esiea.fr/en/homepage/"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Logo_ESIEA_2020.png/1200px-Logo_ESIEA_2020.png" alt="Scaleway" width=215></a>
+ <a href="https://www.esiea.fr/en/homepage/"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Logo_ESIEA_2020.png/1200px-Logo_ESIEA_2020.png" alt="Scaleway" width=200></a>
  </h3>
 
 * **UVSQ – University Paris-Saclay**, BSc in Applied Mathematics (2018–2021)
