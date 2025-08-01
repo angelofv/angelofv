@@ -32,7 +32,7 @@
 
 * Developed a daily anomaly-detection pipeline based on ML time-series forecasting for 10K+ radio antennas, delivering monitoring outputs to NOC teams and **eliminating manual weekly/monthly checks**.
 * Built a time-series clustering pipeline using 20+ mixed features to segment radio sites by energy efficiency, traffic load, and configuration; partnered with network teams to **uncover key optimization levers**.
-* Designed robust ETL workflows to generate daily refreshed reference tables on energy usage, antenna setups, and billing, leveraged group-wide, enabling the company to **avoid substantial supplier charges** by exposing inconsistenciesacross external data feeds.
+* Designed robust ETL workflows to generate daily refreshed reference tables on energy usage, antenna setups, and billing, leveraged group-wide, enabling the company to **avoid substantial supplier charges** by exposing inconsistencies across external data feeds.
 
 
 ### SFR (Altice France) – Data Analyst (Sep 2021 – Aug 2024)
