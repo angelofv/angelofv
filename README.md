@@ -16,7 +16,7 @@
 * **Languages & Libraries**: Python, SQL, scikit-learn, TensorFlow, statsmodels, sktime, Prophet
 * **MLOps & Infrastructure**: Docker, Git, Prefect, MLflow, AWS (S3, RDS, ECR, App Runner), CI/CD
 * **Data Processing**: ETL pipeline design, data cleaning, large-scale SQL optimization
-* **Data Visualization**: Tableau, Plotly, Streamlit, Seaborn
+* **Data Visualization**: Tableau, Power BI, Plotly, Streamlit, Seaborn
 * **Expertise**: Time-Series Forecasting, Anomaly Detection, Clustering, A/B Testing, Dashboards
 * **Languages**: English (Advanced), French (Native), Spanish (Native)
 
