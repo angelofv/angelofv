@@ -26,7 +26,7 @@
 
 ### Free (Iliad Group) – Data Scientist (Jan 2025 – Jul 2025) 
 <h3 align="center">
-<a href="https://www.iliad.fr/en/"><img src="https://42.fr/wp-content/uploads/2023/01/logo-free_et_groupe_iliad_RVB.png-2000x604.png" alt="Iliad Group" width=200></a>
+<a href="https://www.iliad.fr/en/"><img src="https://42.fr/wp-content/uploads/2023/01/logo-free_et_groupe_iliad_RVB.png-2000x604.png" alt="Free (Iliad Group)" width=200></a>
  &nbsp;
 </h3>
 
@@ -37,7 +37,7 @@
 
 ### SFR (Altice France) – Data Analyst (Sep 2021 – Aug 2024)
 <h3 align="center">
-<a href="https://alticefrance.com/"><img src="https://static.wixstatic.com/media/abd76b_e39d3d34121b4f8ebabfbd0c5eee2b6d~mv2.png/v1/fill/w_690,h_413,al_c,lg_1,q_85,enc_avif,quality_auto/abd76b_e39d3d34121b4f8ebabfbd0c5eee2b6d~mv2.png" alt="Iliad Group" width=200></a>
+<a href="https://alticefrance.com/"><img src="https://static.wixstatic.com/media/abd76b_e39d3d34121b4f8ebabfbd0c5eee2b6d~mv2.png/v1/fill/w_690,h_413,al_c,lg_1,q_85,enc_avif,quality_auto/abd76b_e39d3d34121b4f8ebabfbd0c5eee2b6d~mv2.png" alt="SFR (Altice France)" width=200></a>
  &nbsp;
 </h3>
 
@@ -55,13 +55,19 @@
 * **ESIEA**, Engineer’s Degree in Data Science (2021–2024)
 <h3 align="center">
  &nbsp; 
- <a href="https://www.esiea.fr/en/homepage/"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Logo_ESIEA_2020.png/1200px-Logo_ESIEA_2020.png" alt="Scaleway" width=200></a>
+ <a href="https://www.esiea.fr/en/homepage/"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Logo_ESIEA_2020.png/1200px-Logo_ESIEA_2020.png" alt="ESIEA" width=200></a>
  </h3>
 
-* **UVSQ – University Paris-Saclay**, BSc in Applied Mathematics (2018–2021)
+* **University of Michigan-Dearborn**, Summer School in Computer Science (2023–2023)
 <h3 align="center">
  &nbsp; 
- <a href="https://www.uvsq.fr/english"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/UVSQ_Logo.svg/1200px-UVSQ_Logo.svg.png" alt="Iliad Group" width=200></a>
+ <a href="https://umdearborn.edu/"><img src="https://umdearborn.edu/sites/default/files/styles/large/public/2023-05/UM-Dearborn_Logo-Hex.png?h=acb1fea5&itok=f2-jGbLp" alt="University of Michigan-Dearborn" width=150></a>
+</h3>
+
+* **UVSQ – University Paris-Saclay**, Bachelor's Degree in Applied Mathematics (2018–2021)
+<h3 align="center">
+ &nbsp; 
+ <a href="https://www.uvsq.fr/english"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/UVSQ_Logo.svg/1200px-UVSQ_Logo.svg.png" alt="UVSQ – University Paris-Saclay" width=200></a>
 </h3>
 
 ---
