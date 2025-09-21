@@ -72,14 +72,6 @@
 
 ---
 
-## 🚀 Open-Source Projects
-
-* [Emotion Classification Model from Facial Landmarks](https://github.com/angelofv/emotion-recognition-challenge) (scikit-learn)
-* [CNN for Soft-bio Attribute Detection](https://github.com/angelofv/deep-learning-classification) (TensorFlow)
-* [Topic Modeling on News Headlines](https://github.com/angelofv/nlp-topic-modeling-project) (Gensim, spaCy)
-
----
-
 ## 📫 Connect with Me
 
 <p align="left">
