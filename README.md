@@ -5,7 +5,6 @@
 * 🔭 **Former Data Scientist @ Free (Iliad)**: leading anomaly detection & clustering initiatives for large-scale network data
 * 🌱 Passionate about time-series forecasting, anomaly detection, and MLOps (Docker, Prefect, MLflow, AWS).
 * 📚 I love learning and continuously expanding my skill set.
-* 🔍 I’m looking for a full-time **Data Scientist / Data Analyst** role.
 * 💬 Ask me about data pipelines, forecasting techniques, or deploying models in production.
 * ⚡ Fun fact: I automate boring data tasks so I can focus on creative problem solving!
 
