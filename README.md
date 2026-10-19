@@ -29,10 +29,9 @@
  &nbsp;
 </h3>
 
-* Developed a daily anomaly-detection pipeline based on ML time-series forecasting for 10K+ radio antennas, delivering monitoring outputs to NOC teams and **eliminating manual weekly/monthly checks**.
-* Built a time-series clustering pipeline using 20+ mixed features to segment radio sites by energy efficiency, traffic load, and configuration; partnered with network teams to **uncover key optimization levers**.
-* Designed robust ETL workflows to generate daily refreshed reference tables on energy usage, antenna setups, and billing, leveraged group-wide, enabling the company to **avoid substantial supplier charges** by exposing inconsistencies across external data feeds.
-
+* Developed an **anomaly detection algorithm using SARIMAX and Prophet** across 10K+ radio antennas for predictive maintenance, automatically generating reports for NOC teams and **reducing manual monitoring efforts**.
+* Implemented a **K-Prototypes clustering algorithm** to segment radio sites based on energy efficiency, traffic load, and configuration, helping network teams **identify energy-saving opportunities and key optimization levers**.
+* Designed and automated robust ETL workflows to generate daily reference tables on antenna data, **leveraged group-wide to improve data reliability and enable cross-referencing between financial and operational data**.
 
 ### SFR (Altice France) – Data Analyst (Sep 2021 – Aug 2024)
 <h3 align="center">
@@ -41,9 +40,9 @@
 </h3>
 
 * Conducted ad hoc and exploratory data analysis to monitor customer churn, mobile and M2M consumption, sales, and mobile portfolio, **supporting data-driven marketing campaigns**.
-* Developed and optimized ETL pipelines on large datasets, **reducing SQL query execution times by 30%** through indexing, partitioning, pre-filtering, CTEs, and redundancy reduction.
+* Developed and optimized ETL pipelines on large datasets, **significantly reducing SQL query execution times** through indexing, partitioning, pre-filtering, CTEs, and redundancy reduction
 * Designed, developed, and maintained interactive dashboards **for 40+ stakeholders** to track KPIs and provide actionable insights.
-* Automated ETL workflows, implementing 15+ DAGs for daily, weekly, or monthly updates, **saving up to 3 workdays per month** through scheduling, orchestration, and monitoring.
+* Automated ETL workflows, implementing **15+ DAGs for daily, weekly, or monthly updates**, through scheduling, orchestration, and monitoring.
 
 
 
@@ -54,7 +53,7 @@
 * **ESIEA**, Engineer’s Degree in Data Science (2021–2024)
 <h3 align="center">
  &nbsp; 
- <a href="https://www.esiea.fr/en/homepage/"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Logo_ESIEA_2020.png/1200px-Logo_ESIEA_2020.png" alt="ESIEA" width=200></a>
+ <a href="https://www.esiea.fr/en/homepage/"><img src="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_ESIEA_2020.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20210612193640" alt="ESIEA" width=200></a>
  </h3>
 
 * **University of Michigan-Dearborn**, Summer School in Computer Science (2023–2023)
@@ -66,7 +65,7 @@
 * **UVSQ – University Paris-Saclay**, Bachelor's Degree in Applied Mathematics (2018–2021)
 <h3 align="center">
  &nbsp; 
- <a href="https://www.uvsq.fr/english"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/UVSQ_Logo.svg/1200px-UVSQ_Logo.svg.png" alt="UVSQ – University Paris-Saclay" width=200></a>
+ <a href="https://www.uvsq.fr/english"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Logo_Universit%C3%A9_Paris-Saclay_%28ComUE%29.svg/1280px-Logo_Universit%C3%A9_Paris-Saclay_%28ComUE%29.svg.png?utm_source=vec.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="UVSQ – University Paris-Saclay" width=200></a>
 </h3>
 
 ---
