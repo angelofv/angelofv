@@ -3,7 +3,7 @@
 ```Data Scientist``` focused on business impact, leveraging **3+ years of experience** in machine‑learning, ETL pipeline design, and data‑driven decision support.
 
 * 🔭 **Former Data Scientist @ Free (Iliad)**: leading anomaly detection & clustering initiatives for large-scale network data
-* 🌱 Passionate about time-series forecasting, anomaly detection, and MLOps (Docker, Prefect, MLflow, AWS).
+* 🌱 Passionate about time-series forecasting, anomaly detection, and MLOps (Docker, Prefect, MLflow, Azure).
 * 📚 I love learning and continuously expanding my skill set.
 * 💬 Ask me about data pipelines, forecasting techniques, or deploying models in production.
 * ⚡ Fun fact: I automate boring data tasks so I can focus on creative problem solving!
@@ -13,7 +13,7 @@
 ## 🛠️ Skills
 
 * **Languages & Libraries**: Python, SQL, scikit-learn, TensorFlow, statsmodels, sktime, Prophet
-* **MLOps & Infrastructure**: Docker, Git, Prefect, MLflow, AWS (S3, RDS, ECR, App Runner), CI/CD
+* **MLOps & Infrastructure**: Docker, Git, Prefect, MLflow, Azure, CI/CD
 * **Data Processing**: ETL pipeline design, data cleaning, large-scale SQL optimization
 * **Data Visualization**: Tableau, Power BI, Plotly, Streamlit, Seaborn
 * **Expertise**: Time-Series Forecasting, Anomaly Detection, Clustering, A/B Testing, Dashboards
