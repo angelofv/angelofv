@@ -29,7 +29,7 @@
  &nbsp;
 </h3>
 
-* Developed an **anomaly detection algorithm using SARIMAX and Prophet** across 10K+ for predictive maintenance of radio antennas, automatically generating reports for NOC teams and **reducing manual monitoring efforts**.
+* Developed an **anomaly detection algorithm using SARIMAX and Prophet** for predictive maintenance of radio antennas, automatically generating reports for NOC teams and **reducing manual monitoring efforts**.
 * Implemented a **K-Prototypes clustering algorithm** to segment radio sites based on energy efficiency, traffic load, and configuration, helping network teams **identify energy-saving opportunities and key optimization levers**.
 * Designed and automated robust ETL workflows to generate daily reference tables on antenna data, **leveraged group-wide to improve data reliability and enable cross-referencing between financial and operational data**.
 
